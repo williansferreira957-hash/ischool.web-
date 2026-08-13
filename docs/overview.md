@@ -27,6 +27,8 @@ O iSchool é uma plataforma web voltada ao ambiente escolar, desenvolvida pela C
 - Música e conteúdos multimídia.
 - Integração entre escolas e comunidades.
 
-## Status
+## Ambiente beta
 
-O projeto encontra-se em fase inicial de planejamento e desenvolvimento.
+O iSchool possui atualmente um ambiente beta privado, utilizado para testes e desenvolvimento.
+
+O acesso é restrito a contas de desenvolvedores autorizadas durante esta fase.
